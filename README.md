@@ -18,11 +18,3 @@ This project explores various machine learning algorithms, including Support Vec
 
 The aim of this project is to develop a reliable and efficient Diabetes Recommendation System that leverages advanced ML techniques for early detection and personalized health management.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/diabetes-prediction-system.git
-Install the required dependencies:
-'''bash
-    pip install -r requirements.txt
